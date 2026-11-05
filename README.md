@@ -102,11 +102,20 @@ Building project-centric communication with WebSockets, task commands, and voice
 
 </div>
 
-## 🌊 Contribution Graph
+
 
 <div align="center">
+<h2 align="center">🐍 Contribution Snake</h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajendrakrshaw&theme=tokyo-night&hide_border=true" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/rajendrakrshaw/rajendrakrshaw/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/rajendrakrshaw/rajendrakrshaw/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/rajendrakrshaw/rajendrakrshaw/output/github-snake.svg">
+  </picture>
 </p>
 
 </div>
